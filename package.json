@@ -1,6 +1,6 @@
 {
   "name": "fb-chat-buttons",
-  "version": "1.1.2",
+  "version": "1.0.0",
   "description": "An extension for facebook-chat-api, which provides slightly better UX for your chat bot by adding buttons.",
   "keywords": [
     "facebook-chat-api",
